@@ -4,10 +4,8 @@
 <head>
   <title>Ассоциации спортивных и карпоративных мероприятий.ru</title>
   <meta charset="UTF-8" />
- 
   <meta name="description" content="Горизонтальное меню для сайта - примеры оформления" />
   <meta name="author" content="HTML5BOOK" />
-
   <link rel="shortcut icon" href="/favicon.ico" />
   <link rel="stylesheet" type="text/css" href="CSS.css" />
  
